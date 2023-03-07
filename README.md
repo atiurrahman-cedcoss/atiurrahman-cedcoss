@@ -1,3 +1,4 @@
+<h2 align='center'> Hi there 👋, Welcome to My Github Profile</h2>
 ### Hi there, I'm Atiurrahman - [React Developer][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -11,31 +12,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and only code
 
-<!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
-### Connect with me:
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<!-- <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
 <br />
-
-### Skills
-<img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ati07&langs_count=8&show_icons=true&hide_border=true" />
-
-
-
-
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ati07&show_icons=true&hide_border=true" />
-
-
 
 [website]: https://atiurrahman-238cf.web.app/
 <!-- [course]: http://vsCodeHero.com -->
@@ -49,12 +26,12 @@
 <!-- [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 <div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshanky-ced%2Fshanky-ced&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" /></div>
 
-<h2 align='center'> Hi there 👋, Welcome to My Github Profile</h2>
+
 
 <div align="center">
 <h3> Wanna Talk? Connect me Here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75">
 </h3>
-<a href="https://www.linkedin.com/in/shashankrai01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/atiurrahman-ansari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Shashankrai11"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
